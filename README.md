@@ -54,6 +54,6 @@
 
 
 #### 🔥 My contribution streak
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richasi&show_icons=true&theme=transparent)
+![Richa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richasi&show_icons=true&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Richasi&theme=dark)](https://git.io/streak-stats)
