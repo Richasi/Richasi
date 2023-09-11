@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&color=F71919&lines=Hi+!+myself+Richa+🧑🏻;I+am+a+fullstack+developer+💻;Curious+to+learn+new+things+!)](https://git.io/typing-svg)
 
-<p align="center">A Full Stack Web Developer with expertise in HTML, CSS, JavaScript, React, and Chakra UI. Skilled in creating professional and engaging web applications and passionate about continuous learning and exploring new technologies.</p>
+<p align="center">I am a skilled Full Stack Web Developer proficient in HTML, CSS, JavaScript, React, Chakra UI, Express.js, and Node.js. I have successfully completed a comprehensive 1000+ hour web development course at Masai School, gaining valuable hands-on experience in both individual and collaborative projects. I am now actively seeking an opportunity to apply my skills and knowledge while continuing to learn and grow in this dynamic field.</p>
 <hr/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Richasi)
@@ -23,7 +23,8 @@
  
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
  
-
+ <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Axios-0098D0?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
