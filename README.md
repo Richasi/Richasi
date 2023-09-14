@@ -44,7 +44,7 @@
 
 #### 📱 Contact 🔝
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richa-singh-1aa5a8245/)
-[![text](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://Richasi.github.io)
+[![text](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://6502b18b75adcf25eb732a44--dreamy-valkyrie-83b50d.netlify.app/)
 
 ### About Personal Stuffs
 - 🌱 I’m currently learning React.js...
