@@ -54,6 +54,10 @@
 
 
 #### 🔥 My contribution streak
-![Richa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richasi&show_icons=true&theme=transparent)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Richasi&theme=dark)](https://git.io/streak-stats)
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Richasi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width=500 /></p>  
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Richasi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh8878&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+<h2 align="center"></h2>
